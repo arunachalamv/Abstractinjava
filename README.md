@@ -1,0 +1,2 @@
+# Abstractinjava
+Inheritance@Super
